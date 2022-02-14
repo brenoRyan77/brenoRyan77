@@ -5,7 +5,7 @@
 - 🛠 Atualmente trabalho como Aprendiz de Suporte Técnico
 - 💻 Estudando HTML | CSS | Angular | Java |
 - 🖤 Apaixonado por Tecnologia
-- 📖 Estudante de Ciência da Computação
+- 📖 Estudante de Sistemas para Internet
 
 ##
 
