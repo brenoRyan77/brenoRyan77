@@ -2,7 +2,7 @@
   <h1>👤 About Me </h1>
 
 
-- 🛠 Atualmente trabalho como Aprendiz de Suporte Técnico
+- 🛠 Trainee de Sistemas na Indra | Minsait
 - 💻 Estudando HTML | CSS | Angular | Java |
 - 🖤 Apaixonado por Tecnologia
 - 📖 Estudante de Sistemas para Internet
