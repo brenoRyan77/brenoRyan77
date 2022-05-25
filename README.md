@@ -3,7 +3,7 @@
 
 
 - 🛠 Trainee de Sistemas na Indra | Minsait
-- 💻 Estudando HTML | CSS | Angular | Java |
+- 💻Desenvolvedor Java | Angular
 - 🖤 Apaixonado por Tecnologia
 - 📖 Estudante de Sistemas para Internet
 
