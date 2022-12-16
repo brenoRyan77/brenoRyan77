@@ -5,7 +5,7 @@
 - 🛠 Trainee de Sistemas na Indra | Minsait
 - 💻Desenvolvedor Java | Angular
 - 🖤 Apaixonado por Tecnologia
-- 📖 Estudante de Sistemas para Internet
+- 📖 Cursando Análise e Desenvolvimento de Sistemas
 
 ##
 
