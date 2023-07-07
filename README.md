@@ -2,7 +2,7 @@
   <h1>👤 About Me </h1>
 
 
-- 🛠 Trainee de Sistemas na Indra | Minsait
+- 🛠 Junior System Engineer na Indra | Minsait
 - 💻Desenvolvedor Java | Angular
 - 🖤 Apaixonado por Tecnologia
 - 📖 Cursando Análise e Desenvolvimento de Sistemas
