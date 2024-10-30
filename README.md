@@ -2,9 +2,8 @@
   <h1>👤 About Me </h1>
 
 
-- 🛠 Pleno System Engineer na Indra | Minsait
-- 💻Desenvolvedor Java | Vue.js
-- 📖 Cursando Análise e Desenvolvimento de Sistemas
+- 🛠  Desenvolvedor FullStack | Fóton
+- 💻 Desenvolvedor Java | Angular
 
 ##
 
