@@ -1,15 +1,25 @@
+```java
+public class BrenoRyan {
 
-  <h1>👤 About Me </h1>
+    private String cargo = "Desenvolvedor FullStack";
+    private String empresa = "Fóton";
+    private String linguagemPrincipal = "Java";
+    private String frameworkBackend = "Spring Boot";
+    private String frameworkFrontend = "Angular";
 
+    public static void main(String[] args) {
+        BrenoRyan breno = new BrenoRyan();
+        breno.sobreMim();
+        breno.conectar();
+    }
 
-- 🛠  Desenvolvedor FullStack | Fóton
-- 💻 Desenvolvedor Java | Angular
+    void sobreMim() {
+        System.out.println("🛠 " + cargo + " na " + empresa);
+        System.out.println("💻 Backend com " + linguagemPrincipal + " e " + frameworkBackend);
+        System.out.println("🌐 Frontend com " + frameworkFrontend);
+    }
 
-##
-
- 
- ##
-  
-  <div>
-   <a href="https://www.linkedin.com/in/breno-ryan-09a45b220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>  
+    void conectar() {
+        System.out.println("🔗 LinkedIn: https://www.linkedin.com/in/breno-ryan-09a45b220/");
+    }
+}
