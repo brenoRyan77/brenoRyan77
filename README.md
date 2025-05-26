@@ -20,6 +20,6 @@ public class BrenoRyan {
     }
 
     void conectar() {
-        System.out.println("🔗 LinkedIn: https://www.linkedin.com/in/breno-ryan-09a45b220/");
+        System.out.println("🔗 LinkedIn: https://www.linkedin.com/in/breno-ryan-de-oliveira-lima/");
     }
 }
